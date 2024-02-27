@@ -10,7 +10,10 @@ let messages = [
   'Ya poes Ari',
   'Mira el otro botón',
   'Piénsalo muy bien',
-  'Es tu última oportunidad chikibaby'
+  'Es tu última oportunidad chikibaby',
+  'Quiero darte algo especial ese día',
+  'Será nuestro primer 29',
+  'Di que sí please'
 ]
 
 buttonNo.addEventListener('click', () => {
