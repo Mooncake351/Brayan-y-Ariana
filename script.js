@@ -4,15 +4,15 @@ const buttonYes = document.querySelector('#yes')
 let fontSize = 2
 
 let messages = [
-  'Estás segura niña?',
+  'Niña pero me lo debes técnicamente',
   'Piénsalo bien',
-  'La pasaremos muy bien niña',
+  'Quisera verte en verdad',
   'Ya poes Ari',
   'Mira el otro botón',
   'Piénsalo muy bien',
-  'Es tu última oportunidad chikibaby',
-  'Quiero darte algo especial ese día',
-  'Será nuestro primer 29',
+  'Yo me encargaré de que todo salga perfecto ',
+  'Niñaaaa ya perdón, aceptame:(',
+  'Niñaaa🥹',
   'Di que sí please'
 ]
 
