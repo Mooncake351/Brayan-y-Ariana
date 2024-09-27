@@ -8,12 +8,10 @@ let messages = [
   'Piénsalo bien',
   'Quisera verte en verdad',
   'Ya poes Ari',
-  'Mira el otro botón',
   'Piénsalo muy bien',
   'Yo me encargaré de que todo salga perfecto ',
   'Niñaaaa ya perdón, aceptame:(',
-  'Niñaaa🥹',
-  'Di que sí please'
+  'Niñaaa🥹'
 ]
 
 buttonNo.addEventListener('click', () => {
